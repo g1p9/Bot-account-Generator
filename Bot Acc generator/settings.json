@@ -1,0 +1,12 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "restock_channel": "CHANNEL_ID",
+  "couleur": "0x5865F2",
+  "owner_id": "YOUR_USER_ID",
+  "cooldown": "600",
+  "premium": {
+    "cooldown": "120",
+    "role_id": "ROLE_ID",
+    "sys_enabled": true
+  }
+}

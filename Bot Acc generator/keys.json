@@ -1,0 +1,20 @@
+{
+    "00FJ-QK27-AM2O-0VS0": {
+        "duration": 40,
+        "used": true,
+        "user_id": "1459840597157216512",
+        "expires_at": 1771409902.3149643
+    },
+    "8R6D-VGQO-H4IW-P0PZ": {
+        "duration": 40,
+        "used": true,
+        "user_id": "1459840597157216512",
+        "expires_at": 1771410002.225134
+    },
+    "HER0-O3O5-L75P-QJD7": {
+        "duration": 172800,
+        "used": false,
+        "user_id": null,
+        "expires_at": null
+    }
+}
